@@ -3,4 +3,4 @@
 To run:
 1. Run 'pip install -r requirements.txt' in the directory
 2. Open project.ipynb and run all cells
-   To generate a new set of images, run the final cell
+3. To generate a new set of images, run the final cell
